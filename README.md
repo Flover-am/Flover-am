@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Flover-am/Flover-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +19,9 @@ Here are some ideas to get you started:
 
 <div align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=flover-am" />
+</div>
+
+<div align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=flover-am&hide=prs,issues,contribs&count_private=true&theme=radical"/>  
 </div>
   
