@@ -14,14 +14,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align = "center">
-  <img width =140 src = "https://avatars.githubusercontent.com/u/90371894?s=400&u=4db1ff3e45ed1a7f4922061304cfdfaa6f4f179e&v=4"/>  
-</div>
-
-<div align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=flover-am" />
+  <div >
+    <img width =140 src = "https://avatars.githubusercontent.com/u/90371894?s=400&u=4db1ff3e45ed1a7f4922061304cfdfaa6f4f179e&v=4"/>  
+  </div>
+  <div>
+    <h2>
+      Flover.am ' GitHub
+    </h2> 
+    <h3 >
+       阿喵喵ns前来报到！
+    </h3>  
+  </div>
 </div>
 
 <div align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=flover-am&hide=prs,issues,contribs&count_private=true&theme=radical"/>  
 </div>
   
+<div align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=flover-am" />
+</div>
+
+
