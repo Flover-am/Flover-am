@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
 
 <a> 
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=flover-am&hide=prs,issues,contribs&count_private=true&theme=radical"  >  
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=flover-am&hide=prs,issues,contribs&count_private=true&theme=radical"  />  
 </a>
+
 <a>
-  <img align = "center src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
-                                                                                                         </a>
+  <img align = "center src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+</a>
   
